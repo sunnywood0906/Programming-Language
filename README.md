@@ -10,5 +10,5 @@
        <li><h5>3.自動依據目標和TDEE安排一周運動計畫超方便～</h5></li>
        </ul>    
      </h4></li>
-     <li><h4>程式碼：[https://github.com/sunnywood0906/Programming-Language/tree/main/AI-Fitness-Assistant](https://github.com/sunnywood0906/Programming-Language/blob/main/AI-Fitness-Assistant.ipynb)</h4></li>
+     <li><h4>程式碼：https://github.com/sunnywood0906/Programming-Language/blob/main/AI-Fitness-Assistant.ipynb</h4></li>
 </ul>
