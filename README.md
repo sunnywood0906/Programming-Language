@@ -59,13 +59,14 @@
 <ul style='list-style-type'>
      <li><h4>使用 Python 進行資料分析，利用 KMeans 聚類與 PCA 降維，並使用視覺化工具展示結果。</h4></li>
      <li><h4>圖表主題說明及結果分析：
-       <ul style='list-style-type'>
-       <li><h5>1.可直接在使用者的Google drive中建立excel輕鬆儲存Al建議。</h5></li>
-       <li><h5>2.新增日期紀錄，可讓使用者根據日期清楚記錄自己的變化。</h5></li>
-       <li><h5>3.新增BMI趨勢圖，將根據日期紀錄和BMI數據為使用者繪製折線圖，圖表內含BMI上限及下限界線，讓使用者更視覺化了解BMI健康和變化趨勢。</h5></li>
-       <li><h5>4.輸入錯誤可刪除最新輸入的紀錄，不怕手殘打錯字～</h5></li>
-       <li><h5>5.可再度導出紀錄，讓AI再根據輸入的歷程給予全面的改善建議！</h5></li>
-       </ul>    
+     <ul style='list-style-type'>
+        <li><h5>1.選擇觀看數、喜歡數、留言數、時長、說明欄長度、標籤數作為分群指標。</h5></li>
+            <ul style='list-style-type'>
+                 <li><h5>1.圖表結果 ：<img src="https://github.com/sunnywood0906/Programming-Language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-04-17%20145530.png" alt="chart-1" width="500"></h5></li>
+                 <li><h5>2.x軸解說及分析：越右邊：觀看數多、互動多、容易被推播，可能是熱門影片或爆紅影片；越左邊：觀看數低、互動少，可能是冷門影片、剛上架影片、非主流內容。</h5></li>
+                 <li><h5>3.y軸分析：越上面：影片越長、描述越完整、標籤越多，可能是教學型影片或深入內容型影片；越下面：影片資訊簡單、較短，可能是短影音或主打標題吸引的影片。</h5></li>
+            </ul>
+     </ul>
      </h4></li>
-     <li><h4>程式碼：https://github.com/sunnywood0906/Programming-Language/blob/main/AI-Fitness-Assistant-Advance.ipynb</h4></li>
+     <li><h4>程式碼：https://github.com/sunnywood0906/Programming-Language/blob/main/programming_languagehw3.ipynb</h4></li>
 </ul>
