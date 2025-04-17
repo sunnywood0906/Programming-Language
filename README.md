@@ -53,5 +53,5 @@
             </ul>
        </ul>    
      </h4></li>
-     <li><h4>程式碼：https://github.com/sunnywood0906/Programming-Language/blob/main/AI-Fitness-Assistant-Advance.ipynb</h4></li>
+     <li><h4>程式碼：https://github.com/sunnywood0906/Programming-Language/blob/main/programming_language_hw2.ipynb</h4></li>
 </ul>
