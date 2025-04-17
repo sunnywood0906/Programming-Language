@@ -47,7 +47,7 @@
             </ul>
         <li><h5>3.是否有補習和三科目(數學、閱讀、寫作)平均成績的關係</h5></li>
              <ul style='list-style-type'>
-                 <li><h5>1.圖表結果 ：<img src="https://github.com/sunnywood0906/Programming-Language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-04-17%20145647.pn" alt="chart-3" width="500"></h5></li>
+                 <li><h5>1.圖表結果 ：<img src="https://github.com/sunnywood0906/Programming-Language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-04-17%20145647.png" alt="chart-3" width="500"></h5></li>
                  <li><h5>2.從圖表可知是否有補習和三科目(數學、閱讀、寫作)平均成績的關係呈現正相關，</h5></li>
                  <li><h5>3.以箱型圖可得出參加補習班的學生，其平均分數明顯高於未補習的學生，不僅中位數更高，整體分數分布也較為集中，低分異常值較少，顯示其學習表現更穩定。</h5></li>
             </ul>
