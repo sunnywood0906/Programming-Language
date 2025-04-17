@@ -61,8 +61,9 @@
      <li><h4>圖表主題說明及結果分析：
      <ul style='list-style-type'>
         <li><h5>1.選擇觀看數、喜歡數、留言數、時長、說明欄長度、標籤數作為分群指標。</h5></li>
+        <li><h5>2.第一組：冷門短片組；第二組：熱門短影片組；第三組：教學型長片組；第四組：高互動爆紅影片組。</h5></li>
             <ul style='list-style-type'>
-                 <li><h5>1.圖表結果 ：<img src="https://github.com/sunnywood0906/Programming-Language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-04-17%20145530.png" alt="chart-1" width="500"></h5></li>
+                 <li><h5>1.圖表結果 ：<img src="https://github.com/sunnywood0906/Programming-Language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-04-18%20000631.png" alt="chart-4" width="500"></h5></li>
                  <li><h5>2.x軸解說及分析：越右邊：觀看數多、互動多、容易被推播，可能是熱門影片或爆紅影片；越左邊：觀看數低、互動少，可能是冷門影片、剛上架影片、非主流內容。</h5></li>
                  <li><h5>3.y軸分析：越上面：影片越長、描述越完整、標籤越多，可能是教學型影片或深入內容型影片；越下面：影片資訊簡單、較短，可能是短影音或主打標題吸引的影片。</h5></li>
             </ul>
