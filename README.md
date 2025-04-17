@@ -29,7 +29,7 @@
 </ul>
 <p><h3></p>HW2-在colab產生圖表：</p>
 <ul style='list-style-type'>
-     <li><h4>資料來源：https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams?</h4></li>
+     <li><h4>資料來源：https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams</h4></li>
      <li><h4>圖表主題說明及結果分析：
        <ul style='list-style-type'>
        <li><h5>1.性別與三科目(數學、閱讀、寫作)平均成績的關係</h5></li>
