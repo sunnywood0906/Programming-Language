@@ -15,7 +15,7 @@
 <p><h3></p>HW1-Gemini API-AI機器人(進階版)：</p>
 <ul style='list-style-type'>
      <li><h4>名稱：運動助理(AI Fitness Assistant Advance)</h4></li>
-     <li><h6>基於HW1-Gemini API-AI機器人(簡易初版)多了一些延伸功能，為了記錄學習所以沒有直接取代初版</h4></li>
+     <li><h6>基於HW1-Gemini API-AI機器人(簡易初版)多了一些延伸功能，為了記錄學習所以沒有直接取代初版</h6></li>
      <li><h4>功能介紹(僅介紹延伸功能)：
        <ul style='list-style-type'>
        <li><h5>1.可直接在使用者的Google drive中建立excel輕鬆儲存Al建議。</h5></li>
@@ -58,8 +58,9 @@
 <p><h3></p>HW3-分析youtube各項指標</p>
 <ul style='list-style-type'>
      <li><h4>使用 Python 進行資料分析，利用 KMeans 聚類與 PCA 降維，並使用視覺化工具展示結果。</h4></li>
+     <li><h6>※此資料是自動生成的，非取用任何實際資料</h6></li>
      <li><h4>圖表主題說明及結果分析：
-     <ul style='list-style-type'>
+     <ul style='list-style-type'> 
         <li><h5>1.選擇觀看數、喜歡數、留言數、時長、說明欄長度、標籤數作為分群指標。</h5></li>
         <li><h5>2.第一組：冷門短片組；第二組：熱門短影片組；第三組：教學型長片組；第四組：高互動爆紅影片組。</h5></li>
             <ul style='list-style-type'>
