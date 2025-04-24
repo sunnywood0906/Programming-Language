@@ -80,7 +80,7 @@
        <ul style='list-style-type'>
        <li><h5>1.圖表結果 ：<img src="https://github.com/sunnywood0906/Programming-Language/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-04-24%20233127.png" alt="chart-5" width="500"></h5></li>
        <li><h5>2.原始csv檔：https://github.com/sunnywood0906/Programming-Language/blob/main/%E6%93%87%E5%81%B6%E6%A2%9D%E4%BB%B6%E5%A5%B3%E6%80%A720~30.csv</h5></li>
-       <li><h6>※切自稍微有點不正確是因為沒有人工檢核</h6></li>
+       <li><h6>※切字稍微有點不正確是因為沒有人工檢核。</h6></li>
        </ul>    
      </h4></li>
      <li><h4>程式碼：https://github.com/sunnywood0906/Programming-Language/blob/main/programming_language_hw4.ipynb</h4></li>
